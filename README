@@ -1,0 +1,24 @@
+1. mkdir a folder and change the path to this folder
+
+	mkdir Github
+	cd Github
+
+2. initialize a new git repository  in this folder
+
+	git init
+
+3. creat a Readme to record
+
+4. add the file to git from all my local repository
+
+	git add README
+
+5. add message to my commits
+
+	git commit -m "some general codes for git"
+
+5. push the git to github
+	
+	git push origin master
+
+	
