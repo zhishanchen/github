@@ -16,9 +16,19 @@
 5. add message to my commits
 
 	git commit -m "some general codes for git"
+	git commit [some files] -m "comment"  ## add commit for some files
 
 5. push the git to github
 	
-	git push origin master
+	git push -u  origin master
+
+6. rm local repository
+
+	ls -a 
+	rm ./git
+
+7. rm files 
+
+	rm [somefiles]
 
 	
