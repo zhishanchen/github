@@ -32,3 +32,5 @@
 	rm [somefiles]
 
 	
+8. git remote add origin url/to/your/fork
+
