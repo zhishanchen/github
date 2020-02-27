@@ -64,3 +64,8 @@ rm ./git
 rm [somefiles]
 ```
 	
+8. git remote
+```
+git remote add origin url/to/your/fork
+```
+
