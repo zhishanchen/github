@@ -22,6 +22,8 @@ git config --global user.email zhishan118@gmail.com
 ssh-add ~/.ssh/id_rsa
 ```
 
+5. Adding the SSH public keys (id_rsa.pub) to the Github website
+
 # Performance of Github
 
 1. mkdir a folder and change the path to this folder
