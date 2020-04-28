@@ -1,3 +1,5 @@
+# Git and Github Tutorial
+
 Here is my experience for setting up Git and peformance Github  
  
 # Setup Git
@@ -70,4 +72,22 @@ rm [somefiles]
 ```
 git remote add origin url/to/your/fork
 ```
+
+# Branch	
+display git branch
+```
+git branch 
+```
+
+build and switch a branch
+``` 
+git checkout -b branch
+```
+
+switch a branch
+```
+git branch
+```
+
+
 
